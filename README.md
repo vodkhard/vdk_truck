@@ -20,3 +20,5 @@
 - For users : Press your  INPUT CELLPHONE CAMERA FOCUS LOCK (usually '**L**') to show the menu in front a vehicle
 - For developers : Use "**car:receiveItem**" and "**car:looseItem**" server events
 - You can watch the **PutInCoffre** function of `vdk_inventory` to see an example
+
+## If you want to support me and my work : :moneybag:[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3ZE4W8Y626MA):moneybag:
