@@ -2,6 +2,8 @@
 
 > Resources for FiveM allowing the user to access to a car inventory and for developpers to add and remove items from this inventory.
 
+## If you want to support me and my work : :moneybag:[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3ZE4W8Y626MA):moneybag:
+
 ## Requirements
 
 - **es_freeroam**
@@ -25,5 +27,3 @@
 ## Next steps
 
 - Add this system for job vehicles because actually it only work with personal vehicles ;)
-
-## If you want to support me and my work : :moneybag:[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3ZE4W8Y626MA):moneybag:
